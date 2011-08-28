@@ -1,0 +1,29 @@
+---
+title: Colored Diffs in Thunderbird 
+author: Lars Tesmer
+date: 2010/10/01
+categories: [Git,Thunderbird,email,Productivity]
+---
+
+<p>
+At work we do code review by getting emails with the diff of every commit to our SVN repository. One day I wondered whether there was an addon for Thunderbird to get colored diffs - and sure enough, there was:
+</p>
+<p>
+<a href="http://code.google.com/p/colorediffs/">colorediffs by Vadim Atlygin</a> 
+</p>
+<p>
+It features various display modes, e.g. simple coloring of unified diffs:
+</p>
+<img src="http://www.lars-tesmer.com/images/unified.png" /><br />
+<p>
+Or side-by-side diffs:
+</p>
+<img src="http://www.lars-tesmer.com/images/side-by-side.png" /> <br />
+<p>
+As you can see it will also display whitespace characters, if you want to.<br />
+Moreover, you can set the tab width to your preferred value.<br />
+You can find more screenshots <a href="http://code.google.com/p/colorediffs/wiki/Screenshots">in the wiki of colorediffs.</a>
+</p>
+<p>
+Yet again, another useful Thunderbird-addon making my life a little bit easier.
+</p>

@@ -1,0 +1,11 @@
+title: Welcome to my blog!
+author: Lars Tesmer
+date: 2010/05/11
+
+So finally I got a blog up and running. I've decided to give <a href="http://cloudhead.io/toto">toto</a> a try as my blogging engine.<br />
+It's not using any database at all and it's <a href="http://fadeyev.net/2010/05/10/getting-started-with-toto/">pretty easy to get it up and running</a>.<br /> <br />
+So, what will this blog be about?<br /><br />
+Well, basically about anything programming-related, since that's what I do for a living. I will use this blog as the place to post stuff I've learned as well as anything else I feel like writing about. ;) <br /><br />
+Anyways, subscribe to the RSS feed so you won't miss my next posts!<br /><br />
+Cheers,<br />
+Lars Tesmer
