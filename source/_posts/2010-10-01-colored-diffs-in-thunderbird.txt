@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Colored Diffs in Thunderbird 
 author: Lars Tesmer
 date: 2010/10/01

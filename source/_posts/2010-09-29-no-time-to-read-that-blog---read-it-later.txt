@@ -1,4 +1,5 @@
 ---
+layout: post
 title: No Time to Read That Blog - Read It Later!
 author: Lars Tesmer
 date: 2010/09/29

@@ -1,6 +1,9 @@
+---
+layout: post
 title: Welcome to my blog!
 author: Lars Tesmer
 date: 2010/05/11
+---
 
 So finally I got a blog up and running. I've decided to give <a href="http://cloudhead.io/toto">toto</a> a try as my blogging engine.<br />
 It's not using any database at all and it's <a href="http://fadeyev.net/2010/05/10/getting-started-with-toto/">pretty easy to get it up and running</a>.<br /> <br />

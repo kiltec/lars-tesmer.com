@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Git - How to get better diffs for images
 author: Lars Tesmer
 date: 2010/09/20
