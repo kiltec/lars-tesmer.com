@@ -50,7 +50,7 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious
 
 # Twitter
 twitter_user: kiltec
-twitter_tweet_count: 4
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -66,7 +66,7 @@ pinboard_count: 3
 
 # Delicious
 delicious_user: sprudelpaul
-delicious_count: 3
+delicious_count: 5
 
 # Disqus Comments
 disqus_short_name: larstesmer
