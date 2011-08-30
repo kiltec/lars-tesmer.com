@@ -15,6 +15,7 @@ What I used to do until a year ago was to move those articles into a bookmark fo
 <p>
 Then I discovered <a href="http://readitlaterlist.com/">Read It Later</a>.</p>
 <p>
+<!--more-->
 It's a Firefox Addon that with the click on a button or hitting a keyboard shortcut will save the page you're currently viewing into a list for later access.<br />
 When you have time, you can check out said list and with one click or shortcut, you remove the page from the list and <a href="http://readitlaterlist.com/">Read It Later</a> will get you to the next page you've saved in chronological order.<br />
 Not only that, it also integrates with Google Reader, allowing you to directly save articles without having to leave it.<br />

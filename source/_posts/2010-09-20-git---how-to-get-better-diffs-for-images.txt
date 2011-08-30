@@ -5,9 +5,10 @@ author: Lars Tesmer
 date: 2010/09/20
 categories: Git
 ---
-
-Here's a really useful addition to my Git config that will tell Git to use <i>exiftool</i>
+Have you ever wondered if there's something that would make Git to show better diffs for images?<br />
+Well, here's a really useful addition to one's Git config that will tell Git to use <i>exiftool</i>
 to create diffs of changes made to images:
+<!--more-->
 <pre>
 cd /path_to_project
 echo '*.png diff=exif' >> .gitattributes

@@ -9,6 +9,7 @@ categories: [Git,Thunderbird,email,Productivity]
 <p>
 At work we do code review by getting emails with the diff of every commit to our SVN repository. One day I wondered whether there was an addon for Thunderbird to get colored diffs - and sure enough, there was:
 </p>
+<!--more-->
 <p>
 <a href="http://code.google.com/p/colorediffs/">colorediffs by Vadim Atlygin</a> 
 </p>
