@@ -3,7 +3,7 @@ layout: post
 title: "PHPUnit: Better Syntax for Expecting Exceptions"
 date: 2011-08-29 18:32
 comments: true
-categories: [PHPUnit,PHP,Ruby,Unit Tests] 
+categories: [PHPUnit, PHP, Ruby, Unit Tests] 
 ---
 Recently, while starting to learn Ruby, I've stumbled upon the following code snippet
 which demonstrates how you can assert that a piece of code throws as exception in Ruby's Test::Unit:
