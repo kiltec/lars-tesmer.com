@@ -13,10 +13,10 @@ So, why do I think this way?
 
 For starters, this book is really well written, it never gets boring, it isn't a dry explanation of yet another programming language - it's simply an enjoyable read.
 
-More importantly, it doesn't suffer from the mistake as oh so many other books:  
-As an experienced programmer it's really painful having to suffer through chapter after chapter explaining, for example, what an if-statement is, or that there are such things as, gasp!, loops.  
-In [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) there's none of that. Or when there is, it's written in a way that's not treating you like a programmer on his first day.
+More importantly, it doesn't suffer from the mistake of oh so many other books:  
+As an experienced programmer it's really painful having to suffer through chapter after chapter explaining, for example, what an if-statement is, or that there are such things as, gasp!, loops.
 
+In [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) there's none of that. Or when there is, it's written in a way that's not treating you like a programmer on his first day.  
 *Eloquent Ruby* does not only teach you the syntax but teaches you *idiomatic* Ruby, so you'll be able to write Ruby that actually looks like Ruby.
 
 The book consists of four large sections. The first section introduces you to the basics of Ruby, the second deals about the possibilities offered by classes, modules and blocks in Ruby.  
