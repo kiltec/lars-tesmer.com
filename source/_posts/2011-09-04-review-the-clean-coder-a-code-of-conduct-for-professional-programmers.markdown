@@ -5,19 +5,20 @@ date: 2011-09-04 14:08
 comments: true
 categories: [Review, Book, Craftsmanship]
 ---
-*The Clean Coder* is an important book.  
+{% img left http://lars-tesmer.com/images/books/the_clean_coder.jpg %}
 Robert C. Martin aka Uncle Bob, a programmer with decades of experience under his belt, lets us in about what he has learned in his professional life and, more importantly, how he has failed, sometimes failed miserably.
+*The Clean Coder* is an important book.  
 
 In short, the author helps you to prevent you from making the same mistakes that he committed, giving orientation in one's quest to become a true professional, a software master.
 
 The book covers several topics, e.g. how to say no (and yes!), how to write clean code, how to test, how to become more effective and efficient. 
 
-And while all those topics are different in content, there's one big *leitmotiv*:
+And while all those topics are different in content, there's one big *leitmotif*:
 
 <!-- more -->
 Self Responsibility.
 
-Especially when talking about his failures, this *leitmotiv* becomes evident:  
+Especially when talking about his failures, this *leitmotif* becomes evident:  
 Neither is Robert C. Martin blaming other people, nor the environment, nor bad luck, nor lack of time - no, the essence of his stories is that he himself failed, failed to be resonsible, failed to act professionally.
 
 What a hard realization!
