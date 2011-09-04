@@ -7,7 +7,7 @@ categories: [Review, Book, Craftsmanship]
 ---
 {% img left http://lars-tesmer.com/images/books/the_clean_coder.jpg %}
 Robert C. Martin aka Uncle Bob, a programmer with decades of experience under his belt, lets us in about what he has learned in his professional life and, more importantly, how he has failed, sometimes failed miserably.
-*The Clean Coder* is an important book.  
+[The Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) is an important book.  
 
 In short, the author helps you to prevent you from making the same mistakes that he committed, giving orientation in one's quest to become a true professional, a software master.
 
@@ -19,9 +19,9 @@ And while all those topics are different in content, there's one big *leitmotif*
 Self Responsibility.
 
 Especially when talking about his failures, this *leitmotif* becomes evident:  
-Neither is Robert C. Martin blaming other people, nor the environment, nor bad luck, nor lack of time - no, the essence of his stories is that he himself failed, failed to be resonsible, failed to act professionally.
+Neither is Robert C. Martin blaming other people, nor the environment, nor bad luck, nor lack of time - no, the essence of his stories is that he himself failed, failed to be responsible, failed to act professionally.
 
-What a hard realization!
+What a tough realization!
 
 I mean, it's a little bit depressing to see it this way, think about it:  
 Your project is a mess, you're under constant pressure, haven't seen your family for a long time, you hate your co-workers - why, it's **your** fault, according to the author.
@@ -34,6 +34,6 @@ Now, I'm not sure if I entirely follow this conclusion, it's a thin line to walk
 However, I still think it's a very useful and effective way of thinking, it renders it harder to simply get used to bad situations:  
 The code you work on sucks? - Well, then start to write better code!
 
-Your company company doesn't allow for much time to practice, to hone your skills? - Well, go ahead and change it! Find some like-minded co-workers, practice with them after work, go to your bosses and pester them to allocate at least a few hours per month for practice!
+Your company doesn't allow for much time to practice, to hone your skills? - Well, go ahead and change it! Find some like-minded co-workers, practice with them after work, go to your bosses and pester them to allocate at least a few hours per month for practice!
 
-Concludingly, *The Clean Coder* is an opinionated, yet important book, which you should read (with a critical mind) in order to become a better, a more professional programmer.
+Summing up, [The Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) is an opinionated, yet important book, which you should read (with a critical mind) in order to become a better, a more professional programmer.

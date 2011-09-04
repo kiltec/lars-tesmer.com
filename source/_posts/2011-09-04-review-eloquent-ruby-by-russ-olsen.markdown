@@ -6,7 +6,7 @@ comments: true
 categories: [Ruby, Review, Book] 
 ---
 {% img left http://lars-tesmer.com/images/books/eloquent_ruby.jpg %}
-If you want to learn Ruby and you already know another programming language, [Eloquent Ruby by Russ Olsen](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) is a book you absolutely should read. Heck, even if you do *not* want to learn Ruby, you might want to read it because, who knows, it might give you ideas for the programming language you currently use.
+If you want to learn Ruby and you already know another programming language, [Eloquent Ruby by Russ Olsen](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) is a book you absolutely should read. Heck, even if you do *not* want to learn Ruby, you might want to read it because, who knows, it might give you [ideas for the programming language you currently use](http://lars-tesmer.com/blog/2011/08/29/phpunit-better-syntax-for-expecting-exceptions/).
 
 So, why do I think this way?
 <!-- more -->
@@ -34,5 +34,5 @@ More importantly, each chapters closes with the same three subsections:
 *Staying Out of Trouble* helps you to avoid any pitfalls you could fall into when applying the stuff you've just learned. I've found those sections to be especially useful.  
 *Wrapping up* does what its name suggests: Summing up what's been covered in the current chapter in a mere paragraph, allowing you to review what you've just learned.
 
-In conclusion, if you're an aspiring Ruby programmer, do yourself a favour and get this most excellent book.
+In conclusion, if you're an aspiring Ruby programmer, do yourself a favour and [get this most excellent book](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104).
 And while you're at it, check out the equally excellent [Ruby Best Practices](http://www.amazon.com/Ruby-Best-Practices-Gregory-Brown/dp/0596523009/) by Gregory T. Brown, too! :D
