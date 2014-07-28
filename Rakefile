@@ -12,7 +12,7 @@ rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
 
 # This will be configured for you when you run config_deploy
-deploy_branch  = "source"
+deploy_branch  = "master" # Github pages only get served when in master
 
 ## -- Misc Configs -- ##
 
