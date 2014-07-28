@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Lars Tesmer"
-date: 2011-08-30 09:30
+date: 2014-07-28 13:31
 comments: true
 sharing: false
 footer: true
